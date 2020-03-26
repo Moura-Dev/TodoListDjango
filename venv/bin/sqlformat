@@ -1,4 +1,4 @@
-#!/home/moura/PycharmProjects/TodoApp/venv/bin/python
+#!/home/moura/PycharmProjects/TodoListDjango/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

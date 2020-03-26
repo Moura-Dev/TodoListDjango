@@ -1,4 +1,4 @@
-#!/home/moura/PycharmProjects/TodoApp/venv/bin/python
+#!/home/moura/PycharmProjects/TodoListDjango/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":
