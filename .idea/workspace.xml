@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ae2c162-7260-4e18-81e5-27b5523621e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TodoApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TodoApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/django-admin" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/django-admin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/django-admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/django-admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.6" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install-3.6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.6" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3.6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/sqlformat" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/sqlformat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-3.0.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/Django-3.0.4.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref-3.2.5.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref-3.2.5.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref-3.2.5.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref-3.2.5.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref-3.2.5.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref-3.2.5.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref/local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref/sync.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/asgiref/sync.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/sqlparse-0.3.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/sqlparse-0.3.1.dist-info/RECORD" afterDir="false" />
-    </list>
+    <list default="true" id="2ae2c162-7260-4e18-81e5-27b5523621e4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +78,7 @@
       <workItem from="1584652092706" duration="2691000" />
       <workItem from="1584655172408" duration="7948000" />
       <workItem from="1584669068949" duration="288000" />
-      <workItem from="1585182643870" duration="463000" />
+      <workItem from="1585182643870" duration="1030000" />
     </task>
     <servers />
   </component>
@@ -124,22 +94,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="420" y="201" width="583" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585183164389" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1585182868879">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1585183673784">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585182868879" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1585182868879">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585183673784" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1585183673784">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585182868879" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1585182868879">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585183673784" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1585183673783">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585182868879" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1585182868879">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585183673783" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1585183673784">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585182868879" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1360.768@67.27.1299.741" timestamp="1585183673784" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1585183106453">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
